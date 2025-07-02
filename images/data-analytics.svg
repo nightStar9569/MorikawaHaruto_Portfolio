@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FBBF24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#dataGradient)"/>
+  <rect x="20" y="30" width="160" height="140" rx="10" fill="white" opacity="0.95"/>
+  <rect x="30" y="45" width="140" height="15" rx="3" fill="#D97706" opacity="0.8"/>
+  <circle cx="100" cy="100" r="20" fill="#D97706" opacity="0.1"/>
+  <text x="100" y="108" text-anchor="middle" fill="#D97706" font-family="Arial" font-size="16" font-weight="bold">🔮</text>
+  <rect x="40" y="130" width="20" height="30" rx="2" fill="#D97706" opacity="0.6"/>
+  <rect x="70" y="120" width="20" height="40" rx="2" fill="#D97706" opacity="0.8"/>
+  <rect x="100" y="110" width="20" height="50" rx="2" fill="#D97706" opacity="0.9"/>
+  <rect x="130" y="125" width="20" height="35" rx="2" fill="#D97706" opacity="0.7"/>
+  <rect x="160" y="115" width="20" height="45" rx="2" fill="#D97706" opacity="0.8"/>
+  <text x="50" y="175" text-anchor="middle" fill="#D97706" font-family="Arial" font-size="10">Mon</text>
+  <text x="80" y="175" text-anchor="middle" fill="#D97706" font-family="Arial" font-size="10">Tue</text>
+  <text x="110" y="175" text-anchor="middle" fill="#D97706" font-family="Arial" font-size="10">Wed</text>
+  <text x="140" y="175" text-anchor="middle" fill="#D97706" font-family="Arial" font-size="10">Thu</text>
+  <text x="170" y="175" text-anchor="middle" fill="#D97706" font-family="Arial" font-size="10">Fri</text>
+</svg> 
