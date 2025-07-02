@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nightstar9569.github.io/MorikawaHaruto_Portfolio",
+  "homepage": "https://nightStar9569.github.io/MorikawaHaruto_Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
