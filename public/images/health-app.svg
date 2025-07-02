@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="healthGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ADE80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16A34A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#healthGradient)"/>
+  <rect x="20" y="30" width="160" height="140" rx="10" fill="white" opacity="0.95"/>
+  <rect x="30" y="45" width="140" height="15" rx="3" fill="#16A34A" opacity="0.8"/>
+  <circle cx="60" cy="90" r="15" fill="#16A34A" opacity="0.1"/>
+  <text x="60" y="98" text-anchor="middle" fill="#16A34A" font-family="Arial" font-size="14" font-weight="bold">🏃‍♂️</text>
+  <rect x="90" y="80" width="60" height="20" rx="10" fill="#16A34A" opacity="0.2"/>
+  <text x="120" y="95" text-anchor="middle" fill="#16A34A" font-family="Arial" font-size="10" font-weight="bold">Level 5</text>
+  <rect x="30" y="120" width="140" height="8" rx="4" fill="#16A34A" opacity="0.3"/>
+  <rect x="30" y="135" width="140" height="8" rx="4" fill="#16A34A" opacity="0.3"/>
+  <rect x="30" y="150" width="140" height="8" rx="4" fill="#16A34A" opacity="0.3"/>
+  <rect x="30" y="165" width="140" height="8" rx="4" fill="#16A34A" opacity="0.3"/>
+  <rect x="30" y="120" width="112" height="8" rx="4" fill="#16A34A" opacity="0.8"/>
+  <rect x="30" y="135" width="98" height="8" rx="4" fill="#16A34A" opacity="0.8"/>
+  <rect x="30" y="150" width="126" height="8" rx="4" fill="#16A34A" opacity="0.8"/>
+  <rect x="30" y="165" width="84" height="8" rx="4" fill="#16A34A" opacity="0.8"/>
+</svg> 

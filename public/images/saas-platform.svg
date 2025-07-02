@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="saasGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F472B6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DB2777;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#saasGradient)"/>
+  <rect x="20" y="30" width="160" height="140" rx="10" fill="white" opacity="0.95"/>
+  <rect x="30" y="45" width="140" height="15" rx="3" fill="#DB2777" opacity="0.8"/>
+  <rect x="30" y="70" width="60" height="40" rx="5" fill="#DB2777" opacity="0.1"/>
+  <rect x="100" y="70" width="60" height="40" rx="5" fill="#DB2777" opacity="0.1"/>
+  <rect x="30" y="120" width="60" height="40" rx="5" fill="#DB2777" opacity="0.1"/>
+  <rect x="100" y="120" width="60" height="40" rx="5" fill="#DB2777" opacity="0.1"/>
+  <text x="60" y="95" text-anchor="middle" fill="#DB2777" font-family="Arial" font-size="12" font-weight="bold">🐱</text>
+  <text x="130" y="95" text-anchor="middle" fill="#DB2777" font-family="Arial" font-size="12" font-weight="bold">Simple</text>
+  <text x="60" y="145" text-anchor="middle" fill="#DB2777" font-family="Arial" font-size="12" font-weight="bold">Easy</text>
+  <text x="130" y="145" text-anchor="middle" fill="#DB2777" font-family="Arial" font-size="12" font-weight="bold">Fast</text>
+</svg> 
